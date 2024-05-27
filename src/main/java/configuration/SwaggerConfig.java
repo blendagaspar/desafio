@@ -10,8 +10,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class SwaggerConfig {
 
-    private static final String INFO_TITLE = "Insurance Life - Rest API";
-    private static final String INFO_DESCRIPTION = "PicPay API for Insurance";
+    private static final String INFO_TITLE = "Banco Rest API";
+    private static final String INFO_DESCRIPTION = "Api simulando um banco";
     private static final String INFO_VERSION = "v1.0.0";
     private static final String INFO_LICENSE_NAME = "Apache License Version 2.0";
     private static final String INFO_LICENSE_URL = "https://www.apache.org/licenses/LICENSE-2.0";
